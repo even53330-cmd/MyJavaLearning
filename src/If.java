@@ -5,7 +5,7 @@ if(myInt<10) {
     System.out.println("Da,verno");
 }else if (myInt<20){
     System.out.println("net,ne verno");
-}
+}// else if can any number
 
 
 }
